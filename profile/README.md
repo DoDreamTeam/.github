@@ -25,10 +25,10 @@
 
 - 프로젝트 전체 과정을 `GitHub` 내에서 관리하려고 노력했어요.
   - `Issue 등록 - 백로그 등록 - Pull Request - CI/CD 동작 - 배포 완료` 과정을 따랐어요.
-  - [GitHub](https://github.com/DoDreamTeam/Backend), [GitHub Wiki](https://github.com/DoDreamTeam/Backend/wiki), [GitHub Projects](https://github.com/DoDreamTeam/Backend/projects?query=is%3Aopen)
+  - [GitHub](https://github.com/orgs/DoDreamTeam/repositories), [GitHub Wiki](https://github.com/DoDreamTeam/Backend/wiki), [GitHub Projects](https://github.com/DoDreamTeam/Backend/projects?query=is%3Aopen)
 - 협업을 **잘** 하려고 노력했어요.
   - 커밋 컨벤션, 이슈 컨벤션, PR 컨벤션 등 최대한 자세히 규칙을 정했어요. 
-  - [커밋, 이슈, PR 컨벤션](https://github.com)
+  - [커밋, 이슈, PR 컨벤션](https://github.com/DoDreamTeam/Backend/wiki/Git-Convention)
 
-- 주간 스프린트별로 해당 기간에 겪은 어려움을 기록했다가 문서로 작성했어요. [개발 블로그](https://github.com/boostcampwm-2022/web06-weview/wiki/%F0%9F%92%BB-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)에 방문하시면 확인 가능해요.
+- 주간 스프린트별로 해당 기간에 겪은 어려움을 기록했다가 문서로 작성했어요. [개발 블로그](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%92%BB-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)에 방문하시면 확인 가능해요.
 
