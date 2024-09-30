@@ -5,10 +5,10 @@
 
 # DoDream은 어떤 서비스인가요?
 
-- `DoDream` 은 취준 개발자를 위한 스터디 모임 커뮤니티에요.
-- 사용자는 본인이 희망하는 스터디방을 생성 또는 선택하여 원하는 시간에 스터디를 진행할 수 있어요.
-- 사용자는 본인이 직접 문제집, 문제를 생성 또는 선택하여 원하는 시간에 관심 주제에 대한 문제를 풀 수 있어요.
-- 서로가 학습한 내용에 대하여 생각과 의견 공유도 할 수 있어요.
+- `DoDream` 은 자기계발에 관심있는 개발자를 위한 문제 공유 서비스입니다.
+- 사용자는 본인이 직접 문제집, 문제를 생성 또는 선택하여 원하는 시간에 관심 주제에 대한 문제를 풀 수 있습니다.
+- 사용자는 본인이 희망하는 스터디방을 생성 또는 선택하여 언제 어디서든 스터디를 진행할 수 있습니다.
+
 
 > 자세한 기능은 [DoDream.club](https://DoDream.club) 링크에 접속해서 사용하시거나, [사용 설명서](https://github.com) 문서를 확인해주세요.
 
@@ -19,6 +19,7 @@
 |  👑 정서연<br/>[seoyeon-jung](https://github.com/shyuuuuni)   |   <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0baae395-2de4-440a-b2dc-4b1c7677bc93%2FKakaoTalk_Photo_2023-03-07-05-19-28.png?table=block&id=eb20ba76-7e68-4703-8a08-901ac24d4d90&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" />  | 안녕하세요, 개발자 정서연입니다.<br/><br/>☕️ 커피와 깔끔한 디자인을 좋아합니다. |
 |     하민성<br/>[codesche](https://github.com/codesche)     |   <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa0701e02-61f2-4b99-ac0f-46ef4424fe74%2FKakaoTalk_20230307_161735773.png?table=block&id=ebcd697e-145a-48c6-97d1-4898159e2fdd&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" />   | 유연함과 편리함을 추구하는 개발자 하민성입니다.<br/><br/>📱 유연한 코드와 최적의 개발환경을 위해 항상 고민합니다. |
 |    박진국<br/>[DeepSoupp](https://github.com/DeepSoupp)    |  <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb2d4e589-cca0-4b7f-8926-387c91424f1a%2FKakaoTalk_Photo_2023-03-07-23-37-12.png?table=block&id=8c637dc2-9ee4-47e0-8d88-04d3d1dfa07e&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width=100 alt="_">  |      행동으로 말하는 개발자 박진국입니다. <br/><br/> 🌳 프로젝트의 아이디어에 관심이 많으며 개발과 친해지는 중입니다. |
+  
 
 # 프로젝트는 어떻게 진행했나요?
 
