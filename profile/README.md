@@ -10,7 +10,7 @@
 - 사용자는 본인이 희망하는 스터디방을 생성 또는 선택하여 언제 어디서든 스터디를 진행할 수 있습니다.
 
 
-> 자세한 기능은 [DoDream.club](https://DoDream.club) 링크에 접속해서 사용하시거나, [사용 설명서](https://github.com) 문서를 확인해주세요.
+> 자세한 기능은 [DoDream.store](https://DoDream.store) 링크에 접속해서 사용하시거나, [사용 설명서](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C) 문서를 확인해주세요.
 
 # DoDream 팀원
 
