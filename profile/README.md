@@ -1,8 +1,5 @@
 # DoDream - 개발자를 위한 문제 공유 서비스
 
-## 📜 프로젝트 위키(DoDream 기술 블로그)
-* [**Github Wiki**](https://github.com/DoDreamTeam/Backend/wiki)
-
 ## 🙆‍♂️ 팀원 소개
 
 |            |           |       |
