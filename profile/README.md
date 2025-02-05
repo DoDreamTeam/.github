@@ -17,7 +17,8 @@
 
 🎇 **Slogan - 자기계발을 효율적으로 하고 싶은 개발자를 위해**
 
-![productivity](https://github.com/user-attachments/assets/d3e3c809-3896-46f3-b2af-270e099f84b2)
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/d3e3c809-3896-46f3-b2af-270e099f84b2" />
+
 
 <br/>
 
