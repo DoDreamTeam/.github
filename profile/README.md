@@ -1,15 +1,26 @@
-# DoDream - 개발자를 위한 문제 공유 서비스
+# DoDream
+
+<div align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/d3e3c809-3896-46f3-b2af-270e099f84b2" />
+
+  </br>
+  </br>
+
+### [📽 발표 영상](https://www.youtube.com/watch?v=nScRgV9TfKM&t=5s) | [📷 데모 영상](https://youtube) | [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki)
+
+</br>
+
+</div>
+
+
 
 ## 🙆‍♂️ 팀원 소개
+|                                                                                     👑 정서연                                                                                   |                                                                                    하민성                                                                                   |                                                                                   박진국                                                           |                                                                                                                                                                  
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0baae395-2de4-440a-b2dc-4b1c7677bc93%2FKakaoTalk_Photo_2023-03-07-05-19-28.png?table=block&id=eb20ba76-7e68-4703-8a08-901ac24d4d90&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" /><br/>[GitHub](https://github.com/seoyeon-jung) | <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa0701e02-61f2-4b99-ac0f-46ef4424fe74%2FKakaoTalk_20230307_161735773.png?table=block&id=ebcd697e-145a-48c6-97d1-4898159e2fdd&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" /><br/>[GitHub](https://github.com/codesche) | <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe6f13a01-d6e7-4b09-b064-c3c1ab00499f%2Fc0036163-93cb-4f00-9313-4a9f1a2ba82d%2Fimage.png?table=block&id=15075d24-2f9f-808b-b551-ef8859a5db13&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" alt="_"> <br/>[GitHub](https://github.com/DeepSoupp) |
+|                                                                                  풀스택도 할 수 있어요                                                                                |                                                                           백엔드가 마음에 듭니다                                                                                         |                                        개발에 흥미가 생겼어요                                                                                  | 
 
-|            |           |       |
-|:--------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
-|  👑 정서연<br/>[seoyeon-jung](https://github.com/seoyeon-jung)   |   <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0baae395-2de4-440a-b2dc-4b1c7677bc93%2FKakaoTalk_Photo_2023-03-07-05-19-28.png?table=block&id=eb20ba76-7e68-4703-8a08-901ac24d4d90&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" />  | 안녕하세요, 개발자 정서연입니다.<br/><br/>☕️ 커피와 깔끔한 디자인을 좋아합니다. |
-|     하민성<br/>[codesche](https://github.com/codesche)     |   <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa0701e02-61f2-4b99-ac0f-46ef4424fe74%2FKakaoTalk_20230307_161735773.png?table=block&id=ebcd697e-145a-48c6-97d1-4898159e2fdd&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" />   | 유연함과 편리함을 추구하는 개발자 하민성입니다.<br/><br/>📱 유연한 코드와 최적의 개발환경을 위해 항상 고민합니다. |
-|    박진국<br/>[DeepSoupp](https://github.com/DeepSoupp)    |  <img src="https://shadow-monday-80d.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe6f13a01-d6e7-4b09-b064-c3c1ab00499f%2Fc0036163-93cb-4f00-9313-4a9f1a2ba82d%2Fimage.png?table=block&id=15075d24-2f9f-808b-b551-ef8859a5db13&spaceId=e6f13a01-d6e7-4b09-b064-c3c1ab00499f&width=2000&userId=&cache=v2" width="100px" alt="_">  |      행동으로 말하는 개발자 박진국입니다. <br/><br/> 🌳 프로젝트의 아이디어에 관심이 많으며 개발과 친해지는 중입니다. |
-
-
-
+<br/>
 
 ## 👨‍💻 프로젝트 소개
 
@@ -17,7 +28,7 @@
 
 🎇 **Slogan - 자기계발을 효율적으로 하고 싶은 개발자를 위해**
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/d3e3c809-3896-46f3-b2af-270e099f84b2" />
+
 
 
 <br/>
@@ -43,6 +54,9 @@
 
 
 ## 🤝 협업 과정
+
+
+
 
 
 
