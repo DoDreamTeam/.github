@@ -6,7 +6,7 @@
   </br>
   </br>
 
-### [📽 발표 영상](https://www.youtube.com/watch?v=nScRgV9TfKM&t=5s) | [📷 데모 영상](https://youtube) | [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki)
+### [📽 발표 영상](https://www.youtube.com/watch?v=nScRgV9TfKM&t=5s) | [📷 사용 설명서](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C) | [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki)
 
 </br>
 
@@ -52,32 +52,29 @@
 1) 여러 사이트를 접속하지 않아도 내가 원하는 학습 정보를 **한 곳**에서 확인할 수 있다.
 2) 사용자들은 학습내용 공유를 통해 서로의 학습 현황을 확인함으로써 **학습에 대한 동기부여**에 도움이 될 수 있다. 
 
-
-## 🤝 협업 과정
-
-
-
-
-
-
 ## 👨‍🔧 기술 스택
+![image](https://github.com/user-attachments/assets/267ca825-79f1-4ac7-861f-8a461f800aec)
 
 
-## ⚙️ System Architecture
+## ⚙️ 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/c563c744-6846-45a2-81d6-0ef1f87db623)
 
 
-## 👓 Usecase Diagram
+## 👓 유스케이스 다이어그램
+![image](https://github.com/user-attachments/assets/9ecdd97c-d945-4cb1-8861-e3c12385941e)
 
 
-## 📑 ERD
+## 🗂 더 알아보고 싶은 내용이 있다면?
+더 궁금한 내용이 있으시면 아래를 참고해주세요.
+- 협업 방식을 알고 싶다. 👉 [협업 가이드 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%93%9C-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
+- 주요 기능이 궁금하다. 👉 [DoDream 사용 설명서 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
+- 사용한 기술이 궁금하다. 👉 [기술 스택 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%97%82-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+- 기능에 대한 핵심 기술이 궁금하다. 👉 [핵심 기술 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
+- 팀원들이 어떤 역할을 담당했는지 궁금하다. 👉 [수행 역할 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%8C%80%EC%9B%90%EB%93%A4%EC%9D%B4-%EC%88%98%ED%96%89%ED%95%9C-%EC%97%AD%ED%95%A0)
+- 트러블 슈팅에 대한 내용이 궁금하다. 👉 [트러블 슈팅 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
+- 프로젝트를 하면서 경험한 내용이 궁금하다. 👉 [기술 블로그 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%92%BB-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
+기타 다른 내용들은 [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki) 에서 확인할 수 있습니다.
 
-## ✨ 프로젝트 주요기능
-
-
-## ☄️ 트러블 슈팅
-
-
-## 🔍 프로젝트 리뷰
 
 
