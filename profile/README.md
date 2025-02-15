@@ -68,7 +68,7 @@
 ## 🗂 더 알아보고 싶은 내용이 있다면?
 더 궁금한 내용이 있으시면 아래를 참고해주세요.
 - 협업 방식을 알고 싶다. 👉 [협업 가이드 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%93%9C-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
-- 프로젝트 수행 계획이 궁금하다. 👉 [프로젝트 수행 계획 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%8C%80%EC%9B%90%EB%93%A4%EC%9D%B4-%EC%88%98%ED%96%89%ED%95%9C-%EC%97%AD%ED%95%A0)
+- 프로젝트 수행 계획이 궁금하다. 👉 [프로젝트 수행 계획 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D)
 - 사용한 기술이 궁금하다. 👉 [기술 스택 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%97%82-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 - 주요 기능이 궁금하다. 👉 [DoDream 사용 설명서 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
 - 기능에 대한 핵심 기술이 궁금하다. 👉 [핵심 기술 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
