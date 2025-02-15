@@ -57,7 +57,7 @@
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/ad639e51-ea46-4360-b3e3-64b3ee59b7d0" />
 </br>
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/5affa35c-e3de-444c-9a43-9daae29e78d1" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2cf2ac85-8ba0-4958-9f06-b5850c1de89d" />
 </br>
 
 1) DoDream은 문제집, 스터디 카드를 생성하여 서로의 관심 주제에 대한 문제와 스터디를 공유할 수 있다.
