@@ -97,7 +97,7 @@
 - 프로젝트 수행 계획이 궁금하다. 👉 [프로젝트 수행 계획 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D)
 - 사용한 기술이 궁금하다. 👉 [기술 스택 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%97%82-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
 - 주요 기능이 궁금하다. 👉 [DoDream 사용 설명서 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
-- 기능에 대한 핵심 기술 및 코드가 궁금하다. 👉 [기술 상세 정보 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EA%B8%B0%EB%8A%A5%EC%97%90-%EB%8C%80%ED%95%9C-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC)
+- 기능에 대한 핵심 기술 및 코드가 궁금하다. 👉 [기술 상세 정보 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%EA%B8%B0%EC%88%A0-%EB%AA%85%EC%84%B8%EC%84%9C)
 - 트러블 슈팅에 대한 내용이 궁금하다. 👉 [트러블 슈팅 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 - 프로젝트를 하면서 경험한 내용이 궁금하다. 👉 [기술 블로그 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%92%BB-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 - 프로젝트에 대한 회고록이 궁금하다. 👉 [DoDream 프로젝트 회고록 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
