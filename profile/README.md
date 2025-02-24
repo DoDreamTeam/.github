@@ -96,6 +96,7 @@
 - 협업 방식을 알고 싶다. 👉 [협업 가이드 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%93%9C-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
 - 프로젝트 수행 계획이 궁금하다. 👉 [프로젝트 수행 계획 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%88%98%ED%96%89%EA%B3%84%ED%9A%8D)
 - 사용한 기술이 궁금하다. 👉 [기술 스택 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%97%82-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)
+- ERD와 DB 정보에 대해 궁금하다. 👉 [ERD 정보 바로가기](https://github.com/DoDreamTeam/Backend/wiki/ERD-%EC%A0%95%EB%B3%B4)
 - 주요 기능이 궁금하다. 👉 [DoDream 사용 설명서 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C)
 - 주요 기능과 관련된 코드가 궁금하다. 👉 [기술 상세 정보 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%EA%B8%B0%EC%88%A0-%EB%AA%85%EC%84%B8%EC%84%9C)
 - 핵심 기술과 기술적 시도에 대한 내용이 궁금하다. 👉 [핵심 기술 + 기술적 시도 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%ED%95%B5%EC%8B%AC-%EA%B8%B0%EC%88%A0-&-%EA%B8%B0%EC%88%A0%EC%A0%81-%EC%8B%9C%EB%8F%84)
