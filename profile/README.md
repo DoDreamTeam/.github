@@ -103,7 +103,7 @@
 - CI/CD 절차가 궁금하다. 👉 [CI-CD 구성 바로가기](https://github.com/DoDreamTeam/Backend/wiki/Docker%EC%99%80-Github-Action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-CD-%EA%B5%AC%EC%84%B1)
 - 트러블 슈팅에 대한 내용이 궁금하다. 👉 [트러블 슈팅 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85)
 - 프로젝트를 하면서 경험한 내용이 궁금하다. 👉 [기술 블로그 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%92%BB-%EA%B0%9C%EB%B0%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)
-- 프로젝트에 대한 회고록이 궁금하다. 👉 [DoDream 프로젝트 회고록 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%EB%8C%80%ED%95%9C-%EC%83%81%EC%84%B8-%EB%A6%AC%EB%B7%B0)
+- 프로젝트에 대한 회고록이 궁금하다. 👉 [DoDream 프로젝트 회고록 바로가기](https://github.com/DoDreamTeam/Backend/wiki/DoDream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 
 기타 다른 내용들은 [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki) 에서 확인할 수 있습니다.
 
