@@ -91,6 +91,13 @@
 
 <br/>
 
+## 👨🏻‍🎨 와이어프레임
+- [DoDream 와이어프레임](https://www.figma.com/design/PuQmFi3Pzjl54iykFD6Dyc/dodream)
+
+![image](https://github.com/user-attachments/assets/83442e61-3a4b-4b8b-b2c4-498593dcca70)
+
+<br/>
+
 ## 🗂 더 알아보고 싶은 내용이 있다면?
 더 궁금한 내용이 있으시면 아래를 참고해주세요.
 - 협업 방식을 알고 싶다. 👉 [협업 가이드 바로가기](https://github.com/DoDreamTeam/Backend/wiki/%F0%9F%93%9C-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
