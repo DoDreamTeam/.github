@@ -6,7 +6,7 @@
   </br>
   </br>
 
-### [📽 발표 영상](https://www.youtube.com/watch?v=nScRgV9TfKM&t=5s) | [📷 사용 설명서](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C) | [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki)
+### [📽 발표 영상](https://www.youtube.com/watch?v=nScRgV9TfKM&t=216s) | [📷 사용 설명서](https://github.com/DoDreamTeam/Backend/wiki/%EC%82%AC%EC%9A%A9-%EC%84%A4%EB%AA%85%EC%84%9C) | [📝 팀 위키](https://github.com/DoDreamTeam/Backend/wiki)
 
 </br>
 
